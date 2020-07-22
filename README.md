@@ -9,3 +9,5 @@ To run:
 
 `ruby gitlab.rb`
 
+You will see something like this on your terminal. Choose an option and proceed.
+![alt text](images/action.png)
